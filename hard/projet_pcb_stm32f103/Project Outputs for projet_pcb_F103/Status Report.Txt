@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [projet_pcb_F103.PCBDOC]
+   Generated File[projet_pcb_F103-Plated.TXT]
+   Generated File[projet_pcb_F103.LDP]
+   Generated File[projet_pcb_F103.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:31:17 On 09/10/2019

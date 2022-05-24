@@ -1,0 +1,213 @@
+Removed Pin From Net: NetName=GND Pin=AF1-1
+Removed Pin From Net: NetName=+5V Pin=AF1-2
+Removed Pin From Net: NetName=GND Pin=AF1-16
+Removed Pin From Net: NetName=GND Pin=CarBP-1
+Removed Pin From Net: NetName=+3V3 Pin=Cd_tft-1
+Removed Pin From Net: NetName=GND Pin=Cd_tft-2
+Removed Pin From Net: NetName=GND Pin=CdSD2-1
+Removed Pin From Net: NetName=+3V3 Pin=CdSD2-2
+Removed Pin From Net: NetName=+5V Pin=Cdt-1
+Removed Pin From Net: NetName=GND Pin=Cdt-2
+Removed Pin From Net: NetName=GND Pin=Cft-2
+Removed Pin From Net: NetName=GND Pin=Cmot3-1
+Removed Pin From Net: NetName=VCC Pin=Cmot3-2
+Removed Pin From Net: NetName=+3V3 Pin=CsSD1-1
+Removed Pin From Net: NetName=GND Pin=CsSD1-2
+Removed Pin From Net: NetName=GND Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=J_Acc-2
+Removed Pin From Net: NetName=+5V Pin=J_Capt-1
+Removed Pin From Net: NetName=GND Pin=J_Capt-4
+Removed Pin From Net: NetName=GND Pin=Jcharge3-2
+Removed Pin From Net: NetName=+3V3 Pin=Jcharge-1
+Removed Pin From Net: NetName=GND Pin=MICRO_SD-0
+Removed Pin From Net: NetName=GND Pin=MICRO_SD-0
+Removed Pin From Net: NetName=GND Pin=MICRO_SD-0
+Removed Pin From Net: NetName=GND Pin=MICRO_SD-0
+Removed Pin From Net: NetName=+3V3 Pin=MICRO_SD-4
+Removed Pin From Net: NetName=GND Pin=MICRO_SD-6
+Removed Pin From Net: NetName=GND Pin=MICRO_SD-9
+Removed Pin From Net: NetName=GND Pin=Pot-3
+Removed Pin From Net: NetName=GND Pin=QnMOS1-2
+Removed Pin From Net: NetName=GND Pin=QnMOS2-3
+Removed Pin From Net: NetName=PB13_LEDS_WS2812 Pin=QpMOS-1
+Removed Pin From Net: NetName=+3V3 Pin=QpMOS-2
+Removed Pin From Net: NetName=+5V Pin=Rctrst-1
+Removed Pin From Net: NetName=+3V3_BP Pin=Rk0-2
+Removed Pin From Net: NetName=+3V3_BP Pin=Rk1-2
+Removed Pin From Net: NetName=+3V3_BP Pin=Rk2-2
+Removed Pin From Net: NetName=+3V3_BP Pin=Rk3-2
+Removed Pin From Net: NetName=+3V3_BP Pin=RpuBP-1
+Removed Pin From Net: NetName=+3V3 Pin=RpudCs-1
+Removed Pin From Net: NetName=+3V3 Pin=RpudMiso-2
+Removed Pin From Net: NetName=+3V3 Pin=RpudMosi-1
+Removed Pin From Net: NetName=+3V3 Pin=RpudSck-2
+Removed Pin From Net: NetName=GND Pin=RpullMos1-1
+Removed Pin From Net: NetName=GND Pin=RpullMos2-1
+Removed Pin From Net: NetName=PB13_LEDS_WS2812 Pin=RpullMosP-1
+Removed Pin From Net: NetName=+3V3 Pin=RpullMosP-2
+Removed Pin From Net: NetName=+5V Pin=Rretro LCD-1
+Removed Pin From Net: NetName=GND Pin=Sw1-1
+Removed Pin From Net: NetName=VCC Pin=Umot3-2
+Removed Pin From Net: NetName=VCC Pin=Umot3-3
+Removed Pin From Net: NetName=VCC Pin=Umot3-6
+Removed Pin From Net: NetName=GND Pin=Umot3-8
+Removed Pin From Net: NetName=+5V Pin=Utemp-1
+Removed Pin From Net: NetName=GND Pin=Utemp-3
+Removed Member From Class: ClassName=projet_pcb_F103 Member=AF1
+Removed Member From Class: ClassName=projet_pcb_F103 Member=CarBP
+Removed Member From Class: ClassName=projet_pcb_F103 Member=Cd_tft
+Removed Member From Class: ClassName=projet_pcb_F103 Member=CdSD2
+Removed Member From Class: ClassName=projet_pcb_F103 Member=Cdt
+Removed Member From Class: ClassName=projet_pcb_F103 Member=Cft
+Removed Member From Class: ClassName=projet_pcb_F103 Member=CL1
+Removed Member From Class: ClassName=projet_pcb_F103 Member=Cmot3
+Removed Member From Class: ClassName=projet_pcb_F103 Member=CsSD1
+Removed Member From Class: ClassName=projet_pcb_F103 Member=D2
+Removed Member From Class: ClassName=projet_pcb_F103 Member=J_Acc
+Removed Member From Class: ClassName=projet_pcb_F103 Member=J_Capt
+Removed Member From Class: ClassName=projet_pcb_F103 Member=J_PSCE
+Removed Member From Class: ClassName=projet_pcb_F103 Member=Jcharge2
+Removed Member From Class: ClassName=projet_pcb_F103 Member=Jcharge3
+Removed Member From Class: ClassName=projet_pcb_F103 Member=Jcharge
+Removed Member From Class: ClassName=projet_pcb_F103 Member=MICRO_SD
+Removed Member From Class: ClassName=projet_pcb_F103 Member=MOT3
+Removed Member From Class: ClassName=projet_pcb_F103 Member=Pot
+Removed Member From Class: ClassName=projet_pcb_F103 Member=QnMOS1
+Removed Member From Class: ClassName=projet_pcb_F103 Member=QnMOS2
+Removed Member From Class: ClassName=projet_pcb_F103 Member=QpMOS
+Removed Member From Class: ClassName=projet_pcb_F103 Member=Rctrst
+Removed Member From Class: ClassName=projet_pcb_F103 Member=Rft
+Removed Member From Class: ClassName=projet_pcb_F103 Member=Rk0
+Removed Member From Class: ClassName=projet_pcb_F103 Member=Rk1
+Removed Member From Class: ClassName=projet_pcb_F103 Member=Rk2
+Removed Member From Class: ClassName=projet_pcb_F103 Member=Rk3
+Removed Member From Class: ClassName=projet_pcb_F103 Member=Rled
+Removed Member From Class: ClassName=projet_pcb_F103 Member=RpuBP
+Removed Member From Class: ClassName=projet_pcb_F103 Member=RpudCs
+Removed Member From Class: ClassName=projet_pcb_F103 Member=RpudMiso
+Removed Member From Class: ClassName=projet_pcb_F103 Member=RpudMosi
+Removed Member From Class: ClassName=projet_pcb_F103 Member=RpudSck
+Removed Member From Class: ClassName=projet_pcb_F103 Member=RpullMos1
+Removed Member From Class: ClassName=projet_pcb_F103 Member=RpullMos2
+Removed Member From Class: ClassName=projet_pcb_F103 Member=RpullMosP
+Removed Member From Class: ClassName=projet_pcb_F103 Member=Rretro LCD
+Removed Member From Class: ClassName=projet_pcb_F103 Member=RsdCS
+Removed Member From Class: ClassName=projet_pcb_F103 Member=RsdMiso
+Removed Member From Class: ClassName=projet_pcb_F103 Member=RsdMosi
+Removed Member From Class: ClassName=projet_pcb_F103 Member=RsdSck
+Removed Member From Class: ClassName=projet_pcb_F103 Member=Sw1
+Removed Member From Class: ClassName=projet_pcb_F103 Member=Umot3
+Removed Member From Class: ClassName=projet_pcb_F103 Member=Utemp
+Change component parameters: Designator = "J_5Vp"; Footprint = "DOUILLE_BANANE_4mm"; UniqueID = "\IODKLTPU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "BANANE_4mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J_GND"; Footprint = "DOUILLE_BANANE_4mm"; UniqueID = "\BHBNJKXK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "BANANE_4mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J_VCC"; Footprint = "DOUILLE_BANANE_4mm"; UniqueID = "\TFHUWBPY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "BANANE_4mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JUART"; Footprint = "BARRETTE_6_F_D"; UniqueID = "\MHUSXWHH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "F_D_6"; VariantName = "[No Variations]"
+Change component parameters: Designator = "MatLED"; Footprint = "BORNIER3_A_VIS"; UniqueID = "\QLGQLGEN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "BORNIER3_D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3V3"; Footprint = "REGULATEUR_TO220_78XX"; UniqueID = "\FEXAMNLU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Package"; Value = "TO220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "LF33CV"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U5V"; Footprint = "REGULATEUR_TO220_78XX"; UniqueID = "\UMQELDDJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Package"; Value = "TO220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "7805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Uc"; Footprint = "STM32F103C8T6_DIP40"; UniqueID = "\PWEXACRF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Package"; Value = "DIP40"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "STM32F103C8T6"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CdUand"; Footprint = "CONDENSATEUR_CERAMIQUE_RADIAL_5.08"; UniqueID = "\UYMHIEUP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "RADIAL_5.08"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CdWS2812"; Footprint = "CONDENSATEUR_POLARISE_ELECTROLYTIQUE_RADIAL_5.08/10.16"; UniqueID = "\LUNXHEAR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "POL_RAD_5.08/10.16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "470µF/25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Cin"; Footprint = "CONDENSATEUR_POLARISE_ELECTROLYTIQUE_RADIAL_2.0/5.08"; UniqueID = "\EXVSQQVF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "POL_RAD_2.0/5.08"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10µF/>25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Cout1"; Footprint = "CONDENSATEUR_POLARISE_ELECTROLYTIQUE_RADIAL_2.0/5.08"; UniqueID = "\YKGXUSYJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "POL_RAD_2.0/5.08"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1µF/>10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Cout2"; Footprint = "CONDENSATEUR_CERAMIQUE_RADIAL_5.08"; UniqueID = "\YRESMDHD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "RADIAL_5.08"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Cout4"; Footprint = "CONDENSATEUR_POLARISE_ELECTROLYTIQUE_RADIAL_2.54/5.08"; UniqueID = "\ISCPBSWH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Type"; Value = "POL_RAD_2.54/5.08"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7µF/63V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RsWS2812"; Footprint = "RESISTANCE_1/4W"; UniqueID = "\SQNPNKUN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Uand"; Footprint = "DBV0005A_N"; UniqueID = "\SCBODILX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "3-State Output"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Bits(#)"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74ahct1g08.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "SCLS315P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "F @ Nom Voltage(Max)(Mhz)"; Value = "75"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gate Type"; Value = "AND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Generic Part Number"; Value = "SN74AHCT1G08"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ICC @ Nom Voltage(Max)(mA)"; Value = "0.01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Logic"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range(C)"; Value = "-40 to 125"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Drive (IOL/IOH)(Max)(mA)"; Value = "8/-8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "DBV0005A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "SN74AHCT1G08DBVR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "Catalog"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Schmitt Trigger"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sub-Family"; Value = "AND Gate"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 4"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "595-SN74AHCT1G08DBVR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "296-1113-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 3"; Value = "296-1113-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 4"; Value = "296-1113-6-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology Family"; Value = "AHCT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "tpd @ Nom Voltage(Max)(ns)"; Value = "7.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VCC(Max)(V)"; Value = "5.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VCC(Min)(V)"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage(Nom)(V)"; Value = "5"; VariantName = "[No Variations]"
+Added Component: Designator=Capteur à effet hall(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=Rhall(RESISTANCE_1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "1/4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Capteur à effet hall-3
+Added Pin To Net: NetName=Capteur_effet_hall Pin=Capteur à effet hall-2
+Added Pin To Net: NetName=Capteur_effet_hall Pin=Rhall-1
+Added Pin To Net: NetName=Capteur_effet_hall Pin=Uc-9
+Added Net: Name=Capteur_effet_hall
+Added Pin To Net: NetName=NetCapteur à effet hall_1 Pin=Capteur à effet hall-1
+Added Pin To Net: NetName=NetCapteur à effet hall_1 Pin=Rhall-2
+Added Net: Name=NetCapteur à effet hall_1
+Added Member To Class: ClassName=projet_pcb_F103 Member=Component Capteur à effet hall BARRETTE 3 CONTACTS 1 RANGEE MALE DROITE
+Added Member To Class: ClassName=projet_pcb_F103 Member=Component Rhall RESISTANCE_AXIALE_1/4W
+Added Room: Name=projet_pcb_F103

@@ -1,0 +1,147 @@
+18:13:50 **** Incremental Build of configuration Debug for project soft ****
+make -j4 all 
+Building file: ../appli/Horloge.c
+Invoking: MCU GCC Compiler
+Z:\B2\ProjetEON\VentilateurHolographique\Projet\soft\Debug
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -mfloat-abi=soft -DSTM32F1 -DNUCLEO_F103RB -DSTM32F103RBTx -DSTM32 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -I"Z:/B2/ProjetEON/VentilateurHolographique/Projet/soft/lib/bsp" -I"Z:/B2/ProjetEON/VentilateurHolographique/Projet/soft/lib/bsp/MPU6050" -I"Z:/B2/ProjetEON/VentilateurHolographique/Projet/soft/lib/bsp/iks01a1" -I"Z:/B2/ProjetEON/VentilateurHolographique/Projet/soft/lib/bsp/iks01a1/Common" -I"Z:/B2/ProjetEON/VentilateurHolographique/Projet/soft/lib/bsp/iks01a1/hts221" -I"Z:/B2/ProjetEON/VentilateurHolographique/Projet/soft/lib/bsp/iks01a1/lis3mdl" -I"Z:/B2/ProjetEON/VentilateurHolographique/Projet/soft/lib/bsp/iks01a1/lps22hb" -I"Z:/B2/ProjetEON/VentilateurHolographique/Projet/soft/lib/bsp/iks01a1/lps25hb" -I"Z:/B2/ProjetEON/VentilateurHolographique/Projet/soft/lib/bsp/iks01a1/lsm6ds0" -I"Z:/B2/ProjetEON/VentilateurHolographique/Projet/soft/lib/bsp/iks01a1/lsm6ds3" -I"Z:/B2/ProjetEON/VentilateurHolographique/Projet/soft/lib/bsp/tft_ili9341" -I"Z:/B2/ProjetEON/VentilateurHolographique/Projet/soft/lib/bsp/tft_pcd8544" -I"Z:/B2/ProjetEON/VentilateurHolographique/Projet/soft/lib/bsp/MCP23S17" -I"Z:/B2/ProjetEON/VentilateurHolographique/Projet/soft/lib/hal/inc" -I"Z:/B2/ProjetEON/VentilateurHolographique/Projet/soft/lib/bsp/Common" -I"Z:/B2/ProjetEON/VentilateurHolographique/Projet/soft/lib/bsp/lcd2x16" -I"Z:/B2/ProjetEON/VentilateurHolographique/Projet/soft/lib/bsp/MLX90614" -I"Z:/B2/ProjetEON/VentilateurHolographique/Projet/soft/lib/bsp/MatrixKeyboard" -I"Z:/B2/ProjetEON/VentilateurHolographique/Projet/soft/lib/bsp/MatrixLed" -I"Z:/B2/ProjetEON/VentilateurHolographique/Projet/soft/lib/CMSIS/core" -I"Z:/B2/ProjetEON/VentilateurHolographique/Projet/soft/lib/CMSIS/device" -I"Z:/B2/ProjetEON/VentilateurHolographique/Projet/soft/lib/middleware/FatFs" -I"Z:/B2/ProjetEON/VentilateurHolographique/Projet/soft/lib/middleware/FatFs/src" -I"Z:/B2/ProjetEON/VentilateurHolographique/Projet/soft/lib/middleware/FatFs/src/drivers" -I"Z:/B2/ProjetEON/VentilateurHolographique/Projet/soft/appli"  -Og -g3 -Wall -Wextra -Wconversion -fmessage-length=0 -ffunction-sections -fdata-sections -c -MMD -MP -MF"appli/Horloge.d" -MT"appli/Horloge.o" -o "appli/Horloge.o" "../appli/Horloge.c"
+../appli/Horloge.c: In function 'onArrivePasAvecProcess_ms':
+../appli/Horloge.c:30:2: warning: implicit declaration of function 'Systick_add_callback_function' [-Wimplicit-function-declaration]
+  Systick_add_callback_function(&process_ms);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+../appli/Horloge.c: At top level:
+../appli/Horloge.c:62:1: warning: excess elements in array initializer
+ {
+ ^
+../appli/Horloge.c:62:1: note: (near initialization for 'alphabet')
+../appli/Horloge.c:69:1: warning: excess elements in array initializer
+ {
+ ^
+../appli/Horloge.c:69:1: note: (near initialization for 'alphabet')
+../appli/Horloge.c:76:1: warning: excess elements in array initializer
+ {
+ ^
+../appli/Horloge.c:76:1: note: (near initialization for 'alphabet')
+../appli/Horloge.c:83:1: warning: excess elements in array initializer
+ {
+ ^
+../appli/Horloge.c:83:1: note: (near initialization for 'alphabet')
+../appli/Horloge.c:90:1: warning: excess elements in array initializer
+ {
+ ^
+../appli/Horloge.c:90:1: note: (near initialization for 'alphabet')
+../appli/Horloge.c:97:1: warning: excess elements in array initializer
+ {
+ ^
+../appli/Horloge.c:97:1: note: (near initialization for 'alphabet')
+../appli/Horloge.c:104:1: warning: excess elements in array initializer
+ {
+ ^
+../appli/Horloge.c:104:1: note: (near initialization for 'alphabet')
+../appli/Horloge.c:111:1: warning: excess elements in array initializer
+ {
+ ^
+../appli/Horloge.c:111:1: note: (near initialization for 'alphabet')
+../appli/Horloge.c:118:1: warning: excess elements in array initializer
+ {
+ ^
+../appli/Horloge.c:118:1: note: (near initialization for 'alphabet')
+../appli/Horloge.c:125:1: warning: excess elements in array initializer
+ {
+ ^
+../appli/Horloge.c:125:1: note: (near initialization for 'alphabet')
+../appli/Horloge.c:132:1: warning: excess elements in array initializer
+ {
+ ^
+../appli/Horloge.c:132:1: note: (near initialization for 'alphabet')
+../appli/Horloge.c:139:1: warning: excess elements in array initializer
+ {
+ ^
+../appli/Horloge.c:139:1: note: (near initialization for 'alphabet')
+../appli/Horloge.c:146:1: warning: excess elements in array initializer
+ {
+ ^
+../appli/Horloge.c:146:1: note: (near initialization for 'alphabet')
+../appli/Horloge.c:153:1: warning: excess elements in array initializer
+ {
+ ^
+../appli/Horloge.c:153:1: note: (near initialization for 'alphabet')
+../appli/Horloge.c:160:1: warning: excess elements in array initializer
+ {
+ ^
+../appli/Horloge.c:160:1: note: (near initialization for 'alphabet')
+../appli/Horloge.c:167:1: warning: excess elements in array initializer
+ {
+ ^
+../appli/Horloge.c:167:1: note: (near initialization for 'alphabet')
+../appli/Horloge.c:174:1: warning: excess elements in array initializer
+ {
+ ^
+../appli/Horloge.c:174:1: note: (near initialization for 'alphabet')
+../appli/Horloge.c:181:1: warning: excess elements in array initializer
+ {
+ ^
+../appli/Horloge.c:181:1: note: (near initialization for 'alphabet')
+../appli/Horloge.c:188:1: warning: excess elements in array initializer
+ {
+ ^
+../appli/Horloge.c:188:1: note: (near initialization for 'alphabet')
+../appli/Horloge.c:195:1: warning: excess elements in array initializer
+ {
+ ^
+../appli/Horloge.c:195:1: note: (near initialization for 'alphabet')
+../appli/Horloge.c:202:1: warning: excess elements in array initializer
+ {
+ ^
+../appli/Horloge.c:202:1: note: (near initialization for 'alphabet')
+../appli/Horloge.c:209:1: warning: excess elements in array initializer
+ {
+ ^
+../appli/Horloge.c:209:1: note: (near initialization for 'alphabet')
+../appli/Horloge.c:216:1: warning: excess elements in array initializer
+ {
+ ^
+../appli/Horloge.c:216:1: note: (near initialization for 'alphabet')
+../appli/Horloge.c: In function 'lettertoindex':
+../appli/Horloge.c:229:11: warning: conversion to 'uint8_t {aka unsigned char}' from 'int' may alter its value [-Wconversion]
+   return l-'a';
+          ~^~~~
+../appli/Horloge.c:231:11: warning: conversion to 'uint8_t {aka unsigned char}' from 'int' may alter its value [-Wconversion]
+   return l-'A';
+          ~^~~~
+../appli/Horloge.c:233:15: warning: conversion to 'uint8_t {aka unsigned char}' from 'int' may alter its value [-Wconversion]
+   return l-'0'+26;
+          ~~~~~^~~
+../appli/Horloge.c: In function 'affichage_Led':
+../appli/Horloge.c:278:2: warning: implicit declaration of function 'LED_MATRIX_display' [-Wimplicit-function-declaration]
+  LED_MATRIX_display(ruban, 16);
+  ^~~~~~~~~~~~~~~~~~
+../appli/Horloge.c: In function 'Horloge_main':
+../appli/Horloge.c:347:26: warning: conversion to 'uint16_t {aka short unsigned int}' from 'int' may alter its value [-Wconversion]
+        matrice[i+6*l] |= ((uint16_t)(alphabet[index][j]>>(4-i))&1)<<(5+j);//j-15
+                          ^
+../appli/Horloge.c:350:21: warning: conversion to 'uint16_t {aka short unsigned int}' from 'int' may alter its value [-Wconversion]
+       affichage_Led(compteurIndiceMatrice); //on affiche une position verticale
+                     ^~~~~~~~~~~~~~~~~~~~~
+../appli/Horloge.c:316:31: warning: unused parameter 'ask_for_finish' [-Wunused-parameter]
+ running_e Horloge_main(bool_e ask_for_finish)
+                               ^~~~~~~~~~~~~~
+../appli/Horloge.c:367:2: warning: control reaches end of non-void function [-Wreturn-type]
+  }
+  ^
+Finished building: ../appli/Horloge.c
+ 
+Building target: soft.elf
+Invoking: MCU GCC Linker
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -mfloat-abi=soft -u_printf_float -T"../lib/LinkerScript.ld" -Wl,-Map=output.map -Wl,--gc-sections -o "soft.elf" @"objects.list"   -lm
+Finished building target: soft.elf
+ 
+make --no-print-directory post-build
+Generating binary and Printing size information:
+arm-none-eabi-objcopy -O binary "soft.elf" "soft.bin"
+arm-none-eabi-size "soft.elf"
+   text	   data	    bss	    dec	    hex	filename
+  41144	   2524	   2920	  46588	   b5fc	soft.elf
+ 
+
+18:14:08 Build Finished (took 17s.877ms)
+

@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=Cout4-2
+Removed Pin From Net: NetName=GND Pin=J?-2
+Removed Pin From Net: NetName=VCC Pin=J?-3
+Removed Pin From Net: NetName=+5V Pin=U3V3-1
+Removed Pin From Net: NetName=GND Pin=U3V3-2
+Removed Member From Class: ClassName=projet_pcb_F103 Member=Cout4
+Removed Member From Class: ClassName=projet_pcb_F103 Member=J_5Vp
+Removed Member From Class: ClassName=projet_pcb_F103 Member=U3V3
+Added Component: Designator=S?(INTER_UNIPOL_DROIT_LEVIER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "UNIPOL_D_L"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=CdWS2812-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=+5V Pin=MatLED-2
+Added Pin To Net: NetName=VCC Pin=S?-1
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=S?-2
+Added Net: Name=NetJ?_2
+Added Member To Class: ClassName=projet_pcb_F103 Member=Component S? INTERRUPTEUR_UNIPOLAIRE_DROIT_A_LEVIER
+Added Room: Name=projet_pcb_F103

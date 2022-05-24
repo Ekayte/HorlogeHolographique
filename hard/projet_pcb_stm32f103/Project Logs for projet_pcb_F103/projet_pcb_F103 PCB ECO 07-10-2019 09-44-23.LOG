@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=J_GND-1
+Removed Pin From Net: NetName=VCC Pin=J_VCC-1
+Removed Member From Class: ClassName=projet_pcb_F103 Member=J_GND
+Removed Member From Class: ClassName=projet_pcb_F103 Member=J_VCC
+Added Component: Designator=J?(BARRETTE_3_M_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=VCC Pin=J?-3
+Added Member To Class: ClassName=projet_pcb_F103 Member=Component J? BARRETTE 3 CONTACTS 1 RANGEE MALE DROITE
+Added Member To Class: ClassName=projet_pcb_F103 Member=Component MatLED BORNIER3 DROIT A VIS
+Added Room: Name=projet_pcb_F103
